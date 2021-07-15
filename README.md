@@ -1,5 +1,5 @@
 # Logisim-designs
-A place for my digital logic designs in LOGISIM  
+A place for my digital logic designs en converts in LOGISIM  
 These files are intended to be loaded by Logisim (http://www.cburch.com/logisim/).
 
 chargen.circ: a simple circuit that reads a rom containing the commodore 64 characterset into a 8x8 LED display  
